@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pulse Oximeter</string>
+    <string name="Judul">Akuisisi Data Pulse Oximeter</string>
+    <string name="DetailJudul">Merupakan aplikasi yang digunakan untuk mendapatkan data dari sensor pule oximeter yang digunakan untuk mengecek kadar oksigen dalam darah dan denyut nadi</string>
+</resources>
